@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "my_times",
+  "info": {
+    "singularName": "my-time",
+    "pluralName": "my-times",
+    "displayName": "myTime"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dateortime": {
+      "type": "time"
+    }
+  }
+}
